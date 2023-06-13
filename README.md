@@ -8,7 +8,7 @@
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Gustavo-KT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="draven-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/EZMzdhRXsAEGI09?format=jpg&name=4096x4096">
+  <img align="right" alt="draven-pic" height="150" style="border-radius:50px;" src="https://instagram.faqa4-1.fna.fbcdn.net/v/t51.2885-19/348982338_648055767187451_1495395218293305691_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.faqa4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=jGztzV3H4WMAX_m9hz2&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCUwJ6ab7NW8k3C1BbFq_gQ7Bv9RM2ecSp1mE7_rlp_pg&oe=648C0CEC&_nc_sid=640168">
 </div>
   
   ##
