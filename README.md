@@ -1,4 +1,4 @@
-## GUSTAVO SILVA ~~ BÍCEPS 37CM ~ 190 Q.I ~ ASHURA
+## GUSTAVO SILVA ~~ BÍCEPS 39CM ~ 190 Q.I ~ ASHURA
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LxD5k&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LxD5k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
