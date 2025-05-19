@@ -6,7 +6,7 @@ Sou desenvolvedor Android com experiência no desenvolvimento de aplicativos nat
 
 <div>
 
-<img height="170em" src = "https://github-readme-stats.vercel.app/api?username=LxD5k&show_icons=true&theme=synthwave"/> 
+<img height="170em" src = "https://github-readme-stats.vercel.app/api?username=LxD5k&show_icons=true&theme=tokyonight"/> 
 
 <img height="170em" style="margin: 0 16px 0 90px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LxD5k&&layout=compact&hide=shell&theme=tokyonight"/>
 </div>
